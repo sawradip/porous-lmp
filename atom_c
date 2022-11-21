@@ -1,0 +1,3 @@
+atomsk --create fcc 4.046 Al -duplicate 250 250 1 -select grid mask.txt -rmatom select Alu_mod.lmp
+
+ 
